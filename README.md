@@ -1,4 +1,4 @@
-# GunasoSewa
+# GunasoPeti
 A React-based app that is used to file complaints happening in your locality.
 
 ---
